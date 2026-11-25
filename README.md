@@ -6,7 +6,7 @@
 
 🗄️ Базы данных
 
-SQL, PostgreSQL, ClickHouse
+PostgreSQL, ClickHouse
 
 🐍 Языки
 
@@ -23,4 +23,3 @@ DataLens, Apache Superset
 🛠️ Инструменты
 
 MS Excel, MS PowerPoint, Google Docs, Google Sheets, Miro, Яндекс Трекер, Jupyter Notebook, Apache Airflow, Markdown
-
